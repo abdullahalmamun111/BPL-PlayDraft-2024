@@ -4,13 +4,20 @@
 # Short Description 
 Our player draft website is an innovative platform where sports enthusiasts can draft their favorite players. This website provides users with an easy and interactive experience, allowing them to view various players' performances, evaluations, and statistics.
 
-# Technologies used
-1.Jsx
-2.React
-3.Javascript
-4.tailwind css
-5.DaisyUI
-6.CSS
+# Technologies used 1.Jsx
+
+
+
+
+
+<ul>
+<li>1.Jsx</li>
+<li>2.React</li>
+<li>3.Javascript</li>
+<li>4.tailwind css</li>
+<li>5.DaisyUI</li>
+<li>6.CSS</li>
+</ul>
 
 # 3 Key Features Of This Project
 1.User-Friendly Interface: The website offers an intuitive and responsive design that allows users to easily navigate through the player selection process, view player stats, and manage their draft picks without any hassle.
