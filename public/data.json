@@ -1,0 +1,121 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+        "role": "Batsman",
+        "playingStyle": "Right-Handed",
+        "biddingPrice": 1500000
+    },
+    {
+        "playerId": 2,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_640/lsci/db/PICTURES/CMS/388800/388850.jpg",
+        "role": "Batsman",
+        "playingStyle": "Right-Handed",
+        "biddingPrice": 1200000
+    },
+    {
+        "playerId": 3,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://static.independent.co.uk/2023/05/10/16/4a6b222ae1f83eca83c534c30e4dc37eY29udGVudHNlYXJjaGFwaSwxNjgzODE5MDk2-2.69701667.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
+        "role": "All-Rounder",
+        "playingStyle": "Left-Handed",
+        "biddingPrice": 1800000
+    },
+    {
+        "playerId": 4,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/452922425_890563519779302_7653252792833701496_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGhT-ps74CXs8WNTtmMtsfkTrx0sFcsilhOvHSwVyyKWMzak_ndq7QuHsaWU7KHjF139WXtg3C-yRAroOQYpVTR&_nc_ohc=lnXpsSBHTlsQ7kNvgE-Ay4J&_nc_zt=23&_nc_ht=scontent.fdac175-1.fna&_nc_gid=A0Xplncip40J_ZpASUnHS1R&oh=00_AYAo8X_UZtxsdn87BLM2teoC4BSzgSFeIRd3g5_W9KwodQ&oe=67205740",
+        "role": "Bowler",
+        "playingStyle": "Leg-Spin",
+        "biddingPrice": 1000000
+    },
+    {
+        "playerId": 5,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://c7.alamy.com/comp/2H5K887/abu-dhabi-uae-10-nov-2021-icc-t20-1st-semi-finals-england-vs-new-zealand-kane-williamson-captain-of-of-new-zealand-in-action-during-1st-semi-in-sheikh-zayed-stadium-abu-dhabi-on-wednesday-photo-credit-seshadri-sukumar-credit-seshadri-sukumaralamy-live-news-credit-seshadri-sukumaralamy-live-news-credit-seshadri-sukumaralamy-live-news-2H5K887.jpg",
+        "role": "Batsman",
+        "playingStyle": "Right-Handed",
+        "biddingPrice": 1300000
+    },
+    {
+        "playerId": 6,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://crictoday.com/wp-content/uploads/2023/02/warner_player_of_the_tournamen_0_1200x768-1-1.jpg",
+        "role": "Batsman",
+        "playingStyle": "Left-Handed",
+        "biddingPrice": 1400000
+    },
+    {
+        "playerId": 7,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://api.bdcrictime.com/jasprit-bumrahtdg-09_07_2024.jpg",
+        "role": "Bowler",
+        "playingStyle": "Fast-Bowler",
+        "biddingPrice": 1600000
+    },
+    {
+        "playerId": 8,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://wallpapers.com/images/high/glenn-maxwell-hype-cricket-game-bmrgow2sorh77ftd.webp",
+        "role": "All-Rounder",
+        "playingStyle": "Right-Handed",
+        "biddingPrice": 1100000
+    },
+    {
+            "playerId": 9,
+            "name": "Steve Smith",
+            "country": "Australia",
+            "image": "https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/237119244_380274760125020_6886121044817677033_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEDV5quipDswNRYvQTK6DjS_YSLl-y2hOn9hIuX7LaE6f6KwgMfWrGY2saTXaP6G8V3sdzjT06e9Jz9VQ4LaO9Z&_nc_ohc=7NB0YL9sTIEQ7kNvgFHcWWh&_nc_zt=23&_nc_ht=scontent.fdac175-1.fna&_nc_gid=A4ZUZhl7Ql9Vpi-hG7g5RYs&oh=00_AYABeMOsvUurLL8c4bkLDe2kKsW8Xd6mNPqiX7V6DtoIHw&oe=6720BA3F",
+            "role": "Batsman",
+            "playingStyle": "Right-Handed",
+            "biddingPrice": 1600000
+    },
+    {
+            "playerId": 10,
+            "name": "Rohit Sharma",
+            "country": "India",
+            "image": "https://images.forbesindia.com/media/images/2024/Jul/img_236102_.jpg",
+            "role": "Batsman",
+            "playingStyle": "Right-Handed",
+            "biddingPrice": 1700000
+    },
+    {
+            "playerId": 11,
+            "name": "Kagiso Rabada",
+            "country": "South Africa",
+            "image": "https://crictoday.com/wp-content/uploads/2024/10/Rabada.webp",
+            "role": "Bowler",
+            "playingStyle": "Fast-Bowler",
+            "biddingPrice": 1500000
+    },
+    {
+            "playerId": 12,
+            "name": "Shikhar Dhawan",
+            "country": "India",
+            "image": "https://thereport.live/media/imgAll/2024July/651B0111-10EF-4DBD-A974-1C813AD1739C-20240824054705.jpeg",
+            "role": "Batsman",
+            "playingStyle": "Left-Handed",
+            "biddingPrice": 900000
+    },
+    {
+            "playerId": 13,
+            "name": "Trent Boult",
+            "country": "New Zealand",
+            "image": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size60/prd/pki5xe1ulkbpxurjcyhc",
+            "role": "Bowler",
+            "playingStyle": "Fast-Bowler",
+            "biddingPrice": 1400000
+    }
+    
+    
+]
